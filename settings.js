@@ -14,9 +14,9 @@ global.READ_MASSAGE = 'true'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['212617741471'] 
+global.owner = ['212690078793'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© BOBIZA BOT ²⁰²³'
+global.cap = '© M. Tahriyne BOT ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'on'
 //👇 Inbox massage block PM block
@@ -26,11 +26,11 @@ global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  'BOBIZABOT' 
+global.botnma =  'M. TahriyneBOT' 
 //👇 Your name
 global.ownernma =  'instagram.com/noureddine_ouafy' 
 //👇 Sticker package name
-global.packname =  'BOBIZA' 
+global.packname =  'M. Tahriyne' 
 //👇 Sticker Author Name
 global.author =  '_NOUREDDINE_OUAFY_' 
 //👇 Kick And Auto Delete Group link Senders
@@ -45,15 +45,15 @@ global.BUTTON1 = 'instagram'
 //👇 URL button 2 name
 global.BUTTON2 = '𝚈𝚘𝚞𝚝𝚞𝚋𝚎'
 //👇 Button 1 url 
-global.BUTTON1_URL = 'https://instagram.com/noureddine_ouafy'
+global.BUTTON1_URL = 'https://www.instagram.com/tahariyne/'
 //👇 Button 2 url
-global.BUTTON2_URL = 'https://youtube.com/c/@noureddinenouafy2'
+global.BUTTON2_URL = 'https://www.youtube.com/@mohammedtahriyne'
 //👇 Your Add Massage 
 global.ADD_MSG = '*✅ Success add Group*' 
 //👇 Your Kick Massage 
 global.KICK_MSG = '*✅ Success Remove from Group*' 
 //👇 Song Download Massage 
-global.SONG_DOWN = '```⬇️ جاري تحميل الموسيقى تابعني هنا instagram.com/noureddine_ouafy...```' 
+global.SONG_DOWN = '```⬇️ جاري تحميل الموسيقى تابعني هنا instagram.com/tahariyne/...```' 
 //👇 Song Uplode massage 
 global.SONG_UP = '```⬆️ جاري الارسال   instagram.com/noureddine_ouafy...```'
 //👇 212 Number block
@@ -97,8 +97,8 @@ global.NO_BLOCK = ["212617741471"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/c0c8a7440635f381fe098.jpg'
 //other
-global.pemilik = ['212617741471'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['212617741471'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pemilik = ['212690078793'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['212690078793'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = '_Noureddine Ouafy_' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
